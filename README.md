@@ -21,6 +21,10 @@
   js, react native, next js, software architect** - 📫 How to reach me
   **cmoreno@taurodev.com**
 
+## Proyectos actuales
+
+- [@tauro/cli](https://github.com/TauroDev/tauro-cli): Cli para la creación de proyectos con arquitecturas escalables y modulares tanto backend como front end
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/taurodev" target="blank"
@@ -328,3 +332,4 @@
     alt="camilo1423"
   />
 </p>
+
