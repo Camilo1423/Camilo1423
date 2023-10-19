@@ -23,7 +23,7 @@
 
 ## Proyectos actuales
 
-- [@tauro/cli](https://github.com/TauroDev/tauro-cli): Cli para la creación de proyectos con arquitecturas escalables y modulares tanto backend como front end
+- [@tauro/cli](https://github.com/TauroDev/tauro-cli): CLI for creating projects with scalable and modular architectures for both backend and front end.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
